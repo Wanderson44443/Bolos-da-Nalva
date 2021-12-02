@@ -59,3 +59,35 @@ body{
     font-weight: 500px;
 
 }
+.foto-banner{
+    width: 1200px;
+    height: 445px;
+    object-fit: cover;
+
+}
+.banner{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+border-bottom: 5px solid #000000;
+}
+.cardapio-titulo{
+    text-align: center;
+    font-family: 'Cookie';
+    font-size: 28px;
+    font-weight: 100;
+}
+
+.coluna-1{
+
+font-family: 'Roboto';
+font-size: 18px;
+column-count: 3;
+
+
+}
+    .cardapio{
+        width: 1200px;
+        margin-left:auto;
+        margin-right: auto;
+    }
