@@ -97,10 +97,27 @@ column-count: 3;
         font-family: 'Cookie';
         font-size: 28px;
         font-weight: 100;
-        background-color: #6b6b6b;
+        background-color: #aca5a5;
        
 
+        background-color: #b17094;
+        width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align:center;
+        padding: top 19px;
+        padding-bottom: 19px;
+        color: white;
+    }
+
       
+    
+    .titulo-fotos{
+        text-align: center;
+        font-family: 'Cookie';
+        font-size: 28px;
+        font-weight: 100;
+    
     }
         
 
@@ -133,18 +150,40 @@ column-count: 3;
     padding: 10px;
     border-radius: 100px;
 
+    margin-top:0px;
+    margin-right:auto;
+    margin-bottom:0px;
+    margin-left:auto;
+    text-align:center;
+    padding-top: 20px;
+    padding-bottom: 22px;
+
 }
-.contatos{
+.contato{
     text-align: center;
     font-family: 'Cookie';
     font-size: 28px;
     font-weight: 100;
 
+
 } 
-.roadape{
+.titulo-contato{
+    text-align: center;
+    font-family: 'Cookie';
+    font-size: 28px;
+    font-weight: 100;
 
 }
 
+
+
+.titulo-rodape{
+    text-align: center;
+    font-family: 'Cookie';
+    font-size: 28px;
+    font-weight: 100;
+
+}
     
 
 
