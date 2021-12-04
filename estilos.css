@@ -44,7 +44,7 @@ body{
     font-size: 28px;
 }
 .menu{
-    background-color: #6b6b6b;
+    background-color: #94b6e9;
     width: 1200px;
     margin-left: auto;
     margin-right: auto;
@@ -54,7 +54,7 @@ body{
     color: white;
 }
 .item-menu{
-    color: #0f0f0f;
+    color: #030303;
     font-size: 18px;
     font-weight: 500px;
 
@@ -100,14 +100,15 @@ column-count: 3;
         background-color: #aca5a5;
        
 
-        background-color: #b17094;
+        background-color: #94b6e9;
         width: 1200px;
         margin-left: auto;
         margin-right: auto;
         text-align:center;
         padding: top 19px;
         padding-bottom: 19px;
-        color: white;
+        color: rgb(8, 8, 8);
+        border-bottom: 5px solid #000000;
     }
 
       
@@ -164,6 +165,10 @@ column-count: 3;
     font-family: 'Cookie';
     font-size: 28px;
     font-weight: 100;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 5px solid #000000;
 
 
 } 
@@ -172,6 +177,7 @@ column-count: 3;
     font-family: 'Cookie';
     font-size: 28px;
     font-weight: 100;
+    
 
 }
 
@@ -183,6 +189,36 @@ column-count: 3;
     font-size: 28px;
     font-weight: 100;
 
+    margin-top:0px;
+    margin-right:auto;
+    margin-bottom:0px;
+    margin-left:auto;
+    text-align:center;
+    padding-top: 20px;
+    padding-bottom: 22px;
+  
+
+}
+.facebook{
+    width: 75px;
+    height: 78px;
+    border: 5px dotted rgb(0, 0, 0);
+    background-color: rgb(5, 5, 5);
+    padding: 1px;
+    border-radius: 100px;
+
+   
+} 
+.instagram{
+    width: 75px;
+    height: 78px;
+    border: 5px dotted rgb(3, 3, 3);
+    background-color: rgb(253, 251, 251);
+    padding: 1px;
+    border-radius: 100px; 
+
+
+    
 }
     
 
